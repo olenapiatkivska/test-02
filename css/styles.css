@@ -1,0 +1,257 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #000;
+  background-color: #ffffff;
+}
+button {
+  cursor: pointer;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+/* ------ Header Section ------ */
+
+.logo {
+  font-family: "Homemade Apple", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #231f20;
+}
+.nav-link {
+  font-family: "Gilroy", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000;
+}
+.button-header {
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #f7941e;
+  background-color: transparent;
+  border: 1px solid #f7941e;
+  border-radius: 5px;
+  width: 150px;
+  height: 43px;
+}
+
+/* ----- Hero section -----*/
+.hero {
+  background-color: #f1f1f2;
+}
+
+.hero-title {
+  font-weight: 600;
+  font-size: 56px;
+}
+
+.hero-text {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.button-hero {
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background-color: #f7941e;
+}
+
+/* ----- We work Section -----*/
+
+.we-work {
+  background: #f1f1f2;
+}
+
+.we-work-title {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.4;
+}
+
+.text-we-work {
+  font-size: 20px;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+.button-we-work {
+  font-size: 18px;
+  line-height: 1.34;
+  text-transform: uppercase;
+  text-align: center;
+  color: #f7941e;
+  background-color: transparent;
+  border: 1px solid #f7941e;
+  border-radius: 5px;
+  width: 200px;
+  height: 60px;
+}
+
+/* ----- Gifts Section -----*/
+
+.title-gifts {
+  font-weight: 400;
+  font-size: 32px;
+  text-align: center;
+}
+
+.text-gifts {
+  font-size: 18px;
+  line-height: 1.36;
+  text-align: center;
+}
+
+.list-item-gifts {
+  background-color: #fafafa;
+}
+
+.title-gifts-part {
+  font-weight: 400;
+  font-size: 20px;
+}
+.text-gifts-part {
+  font-size: 14px;
+  line-height: 1.36;
+}
+
+/* ----- Sign up Section ----- */
+
+.sign-up {
+  background-color: #f7941e;
+}
+
+.title-sign-up {
+  font-size: 32px;
+  line-height: 1.41;
+}
+
+.text-sign-up {
+  font-size: 32px;
+  line-height: 1.41;
+}
+
+.button-gift-now {
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background-color: #231f20;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+}
+.button-how-works {
+  font-size: 18px;
+  line-height: 1.35;
+  text-transform: uppercase;
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  background-color: transparent;
+}
+
+/* ----- Best Blogs Section ----- */
+
+.title-best-blogs {
+  font-weight: 400;
+  font-size: 32px;
+  text-align: center;
+}
+.text-best-blogs {
+  font-size: 18px;
+  line-height: 1.36;
+  text-align: center;
+}
+
+.best-blogs-author {
+  font-size: 14px;
+  line-height: 1.41;
+  color: #fff;
+}
+
+.best-blogs-author-text {
+  font-size: 48px;
+  color: #fff;
+}
+
+.best-blogs-link {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.41;
+  color: #fff;
+}
+.block {
+  background-color: #231f20;
+}
+
+.blog-card-list {
+}
+.blog-card-item {
+}
+.blog-card-title {
+  font-size: 24px;
+  line-height: 1.41;
+}
+
+.blog-card-text {
+  font-size: 18px;
+  line-height: 1.41;
+}
+
+.blog-card-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.41;
+  color: #000;
+}
+
+/* ----- Footer Section ----- */
+
+.footer-link {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.41;
+  color: #000;
+}
+
+.footer-logo {
+  font-family: "Homemade Apple", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #f7941e;
+}
+
+.footer-link-part {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.41;
+  color: #000;
+}
+
+.footer-text {
+  font-size: 14px;
+  line-height: 1.41;
+  text-align: center;
+}
+
+.footer-text-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.41;
+  text-align: center;
+  color: #000;
+}
